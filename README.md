@@ -3,7 +3,7 @@
 
 An interactive **Connect Four** game featuring an AI opponent with adjustable difficulty levels. Test your strategy skills against the computer or play with a friend!
 
-Check out the game here: 
+Check out the game here: https://connectfour.streamlit.app/
 
 ## Key Features
 - 🧠 **AI-Powered Gameplay**: Challenge an **AI** opponent with three difficulty levels:
