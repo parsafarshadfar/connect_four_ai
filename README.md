@@ -13,7 +13,7 @@ Check out the game here: https://connectfour.streamlit.app/
 - 🎮 **Game Modes**: 
   - One Player (vs **AI**)
   - Two Players (vs a friend)
-  - 
+  
 ## Overview
 
 ![App Screenshot](Screenshot.png)
