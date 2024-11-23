@@ -16,7 +16,7 @@ Check out the game here: https://connectfour.streamlit.app/
   
 ## Overview
 
-![App Screenshot](Screenshot.png)
+![App Screenshot](Screenshot.png) 
 
 
 ## Quick Start
