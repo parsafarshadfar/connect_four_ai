@@ -19,7 +19,7 @@ Check out the game here: https://connectfour.streamlit.app/
 ![App Screenshot](Screenshot.png) 
 
 
-## Quick Start
+## Quick Start 
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
