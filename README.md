@@ -10,7 +10,7 @@ Check out the game here: https://connectfour.streamlit.app/
   - Easy: Perfect for beginners. (**AI** sees 2 steps ahead) 
   - Medium: A balanced challenge. (**AI** sees 4 steps ahead)
   - Hard: For seasoned players. (**AI** sees 6 steps ahead)
-- 🎮 **Game Modes**: 
+- 🎮 **Game Modes**:  
   - One Player (vs **AI**)
   - Two Players (vs a friend)
   
