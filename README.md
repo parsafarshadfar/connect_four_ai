@@ -27,7 +27,7 @@ Check out the game here: https://connectfour.streamlit.app/
 2. Run the app:
    ```bash
    streamlit run app.py
-   ```
+   ``` 
   
 ## Requirements
 - Python 3.8 or higher
