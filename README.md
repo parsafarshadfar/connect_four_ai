@@ -30,7 +30,7 @@ Check out the game here: https://connectfour.streamlit.app/
    ``` 
   
 ## Requirements
-- Python 3.8 or higher
+- Python 3.8 or higher 
 - Libraries: `streamlit==1.39`, `matplotlib==3.7.2`, `numpy==1.24.2`
 
 --- 
