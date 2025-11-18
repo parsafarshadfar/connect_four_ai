@@ -1,16 +1,16 @@
 
-# Connect Four with AI 🎮
+# Connect Four with AI 
  
 An interactive **Connect Four** game featuring an AI opponent with adjustable difficulty levels. Test your strategy skills against the computer or play with a friend!
 
 Check out the game here: https://connectfour.streamlit.app/ 
 
 ## Key Features
-- 🧠 **AI-Powered Gameplay**: Challenge an **AI** opponent with three difficulty levels:
+-  **AI-Powered Gameplay**: Challenge an **AI** opponent with three difficulty levels:
   - Easy: Perfect for beginners. (**AI** sees 2 steps ahead) 
   - Medium: A balanced challenge. (**AI** sees 4 steps ahead) 
   - Hard: For seasoned players. (**AI** sees 6 steps ahead)
-- 🎮 **Game Modes**:  
+-  **Game Modes**:  
   - One Player (vs **AI**)
   - Two Players (vs a friend)
   
